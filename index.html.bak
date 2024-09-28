@@ -3,6 +3,7 @@
 <body>
 <h1>Hello World</h1>
 <p>I'm hosted with GitHub Pages.</p>
+<iframe src="https://toxrat.shinyapps.io/PIE_calculation/" style="border:none;width:1000px;height:500px;"></iframe>
 </body>
 </html>
 
