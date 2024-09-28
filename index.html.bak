@@ -1,9 +1,58 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Shiny App Embed</title>
+  <style>
+    body {
+      background-color: #7d0013; /* Bordeaux-Rot */
+      color: #ffffff; /* Weißer Text für besseren Kontrast */
+      font-family: Arial, sans-serif; /* Schöne, einfache Schriftart */
+      text-align: center;
+      padding: 20px;
+    }
+
+    h1 {
+      font-size: 3em;
+      margin-bottom: 0.5em;
+      color: #f4e04d; /* Ein helles Goldgelb für Kontrast */
+    }
+
+    p {
+      font-size: 1.5em;
+      margin-bottom: 1em;
+      color: #ffffff;
+    }
+
+    iframe {
+      border-radius: 15px; /* Abgerundete Ecken für das iframe */
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Schatten für einen 3D-Effekt */
+    }
+
+    .image-container {
+      text-align: right; /* Rechtszentrierung des Bildes */
+      margin-bottom: 20px; /* Abstand zum Rest des Inhalts */
+    }
+
+    .image-container img {
+      max-width: 300px; /* Maximale Breite des Bildes anpassen */
+      height: auto; /* Höhe proportional zur Breite skalieren */
+      border-radius: 10px; /* Abgerundete Ecken */
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); /* Schatteneffekt */
+    }
+  </style>
+</head>
 <body>
-<h1>Hello World</h1>
-<p>I'm hosted with GitHub Pages.</p>
-<iframe src="https://toxrat.shinyapps.io/PIE_calculation/" style="border:none;width:1000px;height:500px;"></iframe>
+
+  <!-- Bild einfügen, das im selben Ordner liegt -->
+  <div class="image-container">
+    <img src="deinBild.jpg" alt="Bildbeschreibung">
+  </div>
+
+  <h1>This is just a minor threat</h1>
+  <p>I am trying html and shiny..</p>
+  <iframe src="https://toxrat.shinyapps.io/PIE_calculation/" style="border:none;width:1000px;height:500px;"></iframe>
+
 </body>
 </html>
-
