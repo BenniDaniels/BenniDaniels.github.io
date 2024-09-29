@@ -47,7 +47,7 @@
 
   <!-- Bild einfügen, das im selben Ordner liegt -->
   <div class="image-container">
-    <img src="deinBild.jpg" alt="Bildbeschreibung">
+    <img src="Lappland_polarcircle_Feb16.jpg" alt="Lappland polarcicle 02/2016">
   </div>
 
   <h1>This is just a minor threat</h1>
