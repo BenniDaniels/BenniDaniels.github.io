@@ -52,7 +52,7 @@
 
   <h1>This is just a minor threat</h1>
   <p>I am trying html and shiny..</p>
-  <iframe src="https://toxrat.shinyapps.io/PIE_calculation/" style="border:none;width:1000px;height:500px;"></iframe>
+  <iframe src="https://toxrat.shinyapps.io/xG_App/" style="border:none;width:1000px;height:500px;"></iframe>
 
 </body>
 </html>

@@ -47,11 +47,11 @@
 
   <!-- Bild einfügen, das im selben Ordner liegt -->
   <div class="image-container">
-    <img src="Lappland_polarcircle_Feb16.jpg" alt="Lappland polarcicle 02/2016">
+    <img src="xG_map.jpg" alt="football pitch with xG probabilities">
   </div>
 
-  <h1>This is just a minor threat</h1>
-  <p>I am trying html and shiny..</p>
+  <h1>xG revised</h1>
+  <p>Just like a first try...</p>
   <iframe src="https://toxrat.shinyapps.io/xG_App/" style="border:none;width:1000px;height:500px;"></iframe>
 
 </body>
